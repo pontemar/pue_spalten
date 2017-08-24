@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-08-22T19:35:58Z" product-name="pue_spalten">
+		<header/>
+		<body>
+			<trans-unit id="puespaltenaddredpub.description">
+				<source>Adresse wird angezeigt: ja/nein</source>
+			</trans-unit>
+			<trans-unit id="puespaltencontactmailpub.description">
+				<source>e-mail wird angezeigt: ja/nein</source>
+			</trans-unit>
+			<trans-unit id="puespaltencontacttelpub.description">
+				<source>Telefonnummer wird angezeigt: ja/nein</source>
+			</trans-unit>
+			<trans-unit id="puespaltenlinkpub.description">
+				<source>Internetadresse wird angezeigt: ja/nein</source>
+			</trans-unit>
+			<trans-unit id="puespaltendocpdf.description">
+				<source>PDF-Dokument, die heruntergeladen werden kann</source>
+			</trans-unit>
+			<trans-unit id="puespaltendocpdfpub.description">
+				<source>puespaltendocpdfpub</source>
+			</trans-unit>
+			<trans-unit id="puespaltenhandy.description">
+				<source>Die Handynummer</source>
+			</trans-unit>
+			<trans-unit id="puespaltenhandypub.description">
+				<source>Handynummer wird angezeigt: ja/nein</source>
+			</trans-unit>
+			<trans-unit id="puespaltengrptxt.description">
+				<source>Bezeichnung der Gruppe</source>
+			</trans-unit>
+			<trans-unit id="puespaltenlangtxt.description">
+				<source>puespaltenlangtxt</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

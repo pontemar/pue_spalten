@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-08-22T19:35:58Z" product-name="pue_spalten">
+		<header/>
+		<body>
+			<trans-unit id="puespaltenlangtxt.description">
+				<source>Sprachbezeichnung in Deutsch</source>
+			</trans-unit>
+			<trans-unit id="puespaltenlanghtmlicon.description">
+				<source>visueller
+Hinweis zur Landessprache</source>
+			</trans-unit>
+			<trans-unit id="puespaltenlangtxte.description">
+				<source>Sprachbezeichnung in Englisch</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

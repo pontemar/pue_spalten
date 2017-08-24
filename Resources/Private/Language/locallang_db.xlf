@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-08-22T19:35:58Z" product-name="pue_spalten">
+		<header/>
+		<body>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers">
+				<source>New Spalte Fe Users</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltenaddredpub">
+				<source>Puespaltenaddredpub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltencontactmailpub">
+				<source>Puespaltencontactmailpub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltencontacttelpub">
+				<source>Puespaltencontacttelpub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltenlinkpub">
+				<source>Puespaltenlinkpub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltendocpdf">
+				<source>Puespaltendocpdf</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltendocpdfpub">
+				<source>Puespaltendocpdfpub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltenhandy">
+				<source>Puespaltenhandy</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltenhandypub">
+				<source>Puespaltenhandypub</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltengrptxt">
+				<source>Puespaltengrptxt</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_newspaltefeusers.puespaltenlangtxt">
+				<source>Puespaltenlangtxt</source>
+			</trans-unit>
+			<trans-unit id="fe_users.tx_extbase_type.Tx_PueSpalten_NewSpalteFeUsers">
+				<source>Pue neue Spalte-Extension NewSpalteFeUsers</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_language">
+				<source>Language</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_language.puespaltenlangtxt">
+				<source>Puespaltenlangtxt</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_language.puespaltenlanghtmlicon">
+				<source>Puespaltenlanghtmlicon</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_language.puespaltenlangtxte">
+				<source>Puespaltenlangtxte</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_grpforadr">
+				<source>Grp For Adr</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_grpforadr.puespaltengrptxt">
+				<source>Puespaltengrptxt</source>
+			</trans-unit>
+			<trans-unit id="tx_puespalten_domain_model_grpforadr.puespaltengrpsort">
+				<source>Puespaltengrpsort</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
